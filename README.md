@@ -12,6 +12,7 @@ Amazon is online retailer, manufacturer of electronic book readers, and Web serv
  
 ## Landing Page
 The Landing page of Amazon.com displays the navigation bar for products, Learn about a particular product, pricing for the product, Cart Page and the login & signup part, Trending, Popular products in Various categories.
+![image](https://github.com/sayalip2316/skillful-look-5651-new/assets/119415321/a0dffc81-a655-46ae-9b67-45de5e0ca9cb)
 
 ## Middle Page
 In the middle of landing page you can see some sliders of mobile, watches, books, cloths etc with their price.
