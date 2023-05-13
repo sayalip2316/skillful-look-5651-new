@@ -1,8 +1,11 @@
-<b>skillful-look-5651-new<b>
+<b>skillful-look-5651-new<b>  return 
+  
 
-Hello, I am Sayali Jadhav. In this blog, I am writing about our project cloaning of Amazon.com, which is a part of our construct week at Masai School.
+<p>Hello, I am Sayali Jadhav. In this blog, I am writing about our project cloaning of Amazon.com, which is a part of our construct week at Masai School.<p>  return
+  
 
-About Pepperfry
+<h1>About Pepperfry<h1>  return
+  
 Amazon is online retailer, manufacturer of electronic book readers, and Web services provider.
 
 Tech Stack which we used
