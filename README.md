@@ -17,11 +17,12 @@ The Landing page of Amazon.com displays the navigation bar for products, Learn a
 ## Middle Page
 In the middle of landing page you can see some sliders of mobile, watches, books, cloths etc with their price.
 ![image](https://github.com/sayalip2316/skillful-look-5651-new/assets/119415321/f7e70a90-9223-4eac-b850-d7b134ce3a6f)
-![image](https://github.com/sayalip2316/skillful-look-5651-new/assets/119415321/9009d623-b80d-4709-b994-756001792929)
+![image](https://github.com/sayalip2316/skillful-look-5651-new/assets/119415321/a998a699-6795-456d-b62d-0bebf056047c)
+
 
 ## Signup Page
 Here you have to give your credentials like name, email and password to create an account. If you already have an account, simply click on Sign in.
-![image](https://github.com/sayalip2316/skillful-look-5651-new/assets/119415321/a998a699-6795-456d-b62d-0bebf056047c)
+![image](https://github.com/sayalip2316/skillful-look-5651-new/assets/119415321/9009d623-b80d-4709-b994-756001792929)
 
 ## Login page
 After the successful completion of the signup, your name, email and password will be stored in the local storage and you can log in with that credentials, if the email or password are incorrect it will fail the validation and you cannot log in to the website.
